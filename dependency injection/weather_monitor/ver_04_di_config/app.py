@@ -2,9 +2,6 @@ import datetime
 import json
 from pathlib import Path
 
-import matplotlib.dates
-import matplotlib.pyplot
-
 
 BASE_DIR = Path(__file__).resolve(strict=True).parent
 
