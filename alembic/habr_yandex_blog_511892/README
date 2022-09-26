@@ -1,2 +1,4 @@
 Пишем и тестируем миграции БД с Alembic. Доклад Яндекса
 habr.com/ru/company/yandex/blog/511892/
+
+alembic init alembic

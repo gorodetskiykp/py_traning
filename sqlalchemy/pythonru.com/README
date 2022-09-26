@@ -1,0 +1,20 @@
+https://pythonru.com/biblioteki/vvedenie-v-sqlalchemy
+Полное руководство по SQLAlchemy
+
+Установка SQLAlchemy и подключение к базе данных.
+https://pythonru.com/biblioteki/ustanovka-i-podklyuchenie-sqlalchemy-k-baze-dannyh
+
+Создание схемы базы данных в SQLAlchemy Core.
+https://pythonru.com/biblioteki/shemy-sqlalchemy-core
+
+Выполнение CRUD-операции с SQLAlchemy Core.
+https://pythonru.com/biblioteki/crud-sqlalchemy-core
+
+Создание схемы базы данных в SQLAlchemy ORM.
+https://pythonru.com/biblioteki/shemy-v-sqlalchemy-orm
+
+Выполнение CRUD-операции с SQLAlchemy ORM.
+https://pythonru.com/biblioteki/crud-sqlalchemy-orm
+
+
+create_engine(dialect+driver://username:password@host:port/database)

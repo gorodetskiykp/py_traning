@@ -321,3 +321,7 @@ fabric.properties
 /.idea/modules.xml
 /.idea/py_traning.iml
 /.idea/vcs.xml
+/telethon/proglib_io/gorodetskiykp.session
+/telethon/proglib_io/config.ini
+/contextlib/python-scripts-article/test.db
+/sqlalchemy/pythonru.com/sqlite3.db

@@ -1,0 +1,4 @@
+https://proglib.io/p/pishem-prostoy-grabber-dlya-telegram-chatov-na-python-2019-11-06
+Пишем простой граббер для Telegram чатов на Python
+
+pip3 install telethon
