@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=Zh90umoNNbk
+Подключение к базе данных Postgres через asyncpg и asyncpgsa
+
+python entry.py --reload -c local.yaml
